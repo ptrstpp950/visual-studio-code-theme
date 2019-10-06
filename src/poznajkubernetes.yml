@@ -38,7 +38,7 @@ poznajkubernetes:
   brightOther:
     # Temporary (awaiting fix)
     - &TEMP_QUOTES          '#68D8D8'
-    - &TEMP_PROPERTY_QUOTES '#8BE9FE'
+    - &TEMP_PROPERTY_QUOTES '#BFBFBF'
   other:
     - &LineHighlight '#44475A75'
     - &NonText       '#424450'
