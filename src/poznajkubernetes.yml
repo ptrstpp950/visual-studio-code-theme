@@ -6,7 +6,7 @@ maintainers:
 semanticClass: theme.poznajkubernetes
 poznajkubernetes:
   base:
-    - &BG        '#282A36'
+    - &BG        '#3B3B3B'
     - &FG        '#F8F8F2'
     - &SELECTION '#44475A'
     - &COMMENT   '#6272A4'
