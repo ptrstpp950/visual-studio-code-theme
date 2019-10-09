@@ -8,7 +8,7 @@ poznajkubernetes:
   base:
     - &BG        '#3B3B3B'
     - &FG        '#F8F8F2'
-    - &SELECTION '#44475A'
+    - &SELECTION '#303030'
     - &COMMENT   '#6272A4'
     - &CODEWHITE '#D4D4D4'
     - &GREEN     '#3BB879'
@@ -19,7 +19,7 @@ poznajkubernetes:
     - &TEAL      '#00D0D0'
     - &PINK      '#B262B2'
   ansi:
-    - &COLOR0        '#21222C'
+    - &COLOR0        '#353535'
     - &COLOR1        '#FF5555'
     - &COLOR2        '#3BB879'
     - &COLOR3        '#F1FA8C'
@@ -40,15 +40,15 @@ poznajkubernetes:
     - &TEMP_QUOTES          '#68D8D8'
     - &TEMP_PROPERTY_QUOTES '#BFBFBF'
   other:
-    - &LineHighlight '#44475A75'
+    - &LineHighlight '#44444475'
     - &NonText       '#424450'
     - &WHITE         '#FFFFFF'
-    - &TAB_DROP_BG   '#44475A70'
+    - &TAB_DROP_BG   '#44444470'
     # UI Variants
     - &BGLighter     '#424450'
-    - &BGLight       '#343746' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#21222C' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#191A21' # HSV (234.55, 25   , 13   )
+    - &BGLight       '#444444' # HSV (230   , 25.71, 27.45)
+    - &BGDark        '#353535' # HSV (234.55, 25   , 17.25)
+    - &BGDarker      '#282828' # HSV (234.55, 25   , 13   )
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
