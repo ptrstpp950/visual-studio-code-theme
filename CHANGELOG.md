@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+Fix background colors
+
 ## 1.0.2
 
 Change property light gray
