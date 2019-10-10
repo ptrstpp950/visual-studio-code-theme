@@ -47,7 +47,7 @@ poznajkubernetes:
     # UI Variants
     - &BGLighter     '#3b3b3b'
     - &BGLight       '#292929' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#171717' # HSV (234.55, 25   , 17.25)
+    - &BGDark        '#202020' # HSV (234.55, 25   , 17.25)
     - &BGDarker      '#111111' # HSV (234.55, 25   , 13   )
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
